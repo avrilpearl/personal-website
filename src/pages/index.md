@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: 'Hello, I am Sienna Svob. I am a developer, gis specialist, and data wonk.'
+title: 'Hello, I am Sienna Svob. '
 image: /img/09-11-16-0360.jpg
-heading: Great coffee with a conscience
+heading: 'I am a developer, gis specialist, and data wonk.'
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
